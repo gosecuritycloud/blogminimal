@@ -1,2 +1,2 @@
 # Cloud Security blog
-> Este, es basicamente para aprender de seguridad en AWS
+> Ehhhh es basicamente para aprender de seguridad en AWS
