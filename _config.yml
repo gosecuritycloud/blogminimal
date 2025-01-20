@@ -30,6 +30,8 @@ defaults:
 
 exclude:
   - docs/
+  - _tools/
+  - about.md
   - vendor/
   - Gemfile # Gemfile.lock is implied because of how matching works.
   - LICENSE
