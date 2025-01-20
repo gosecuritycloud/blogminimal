@@ -14,7 +14,7 @@ Welcome to my **Jekyll Blog Demo**.
 Create a new Jekyll blog based on this demo.
 
 <div align="center">
-    <a href="https://github.com/MichaelCurrin/jekyll-blog-demo/generate">
+    <a href="https://github.com/gosecuritycloud/blogminimal/generate">
         <img src="https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge"
             alt="Use this template" />
     </a>
