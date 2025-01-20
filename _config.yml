@@ -1,13 +1,13 @@
 ### Site metadata
 
 # Don't make the title longer than this, otherwise it gets covered in mobile view.
-title: Jekyll Blog Demo
-description: Starter for a static website or blog - built with Jekyll, a minimal theme and GH Pages
+title: Cloud Security Engineering
+description: Mis opiniones y experiencias como security engineer
 
-email:
-twitter_username:
-github_username: MichaelCurrin
-rss: RSS
+email: naberdeem@gosecurity.cloud
+github_username: gosecuritycloud
+discord:
+linkedin:
 
 ### Build settings
 
@@ -21,12 +21,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-collections:
-  tools:
-    output: true
-  languages:
-    output: true
 
 defaults:
   - scope:
