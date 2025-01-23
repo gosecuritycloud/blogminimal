@@ -12,7 +12,7 @@ linkedin:
 ### Build settings
 
 url: https://blog.securityaws.com
-baseurl: /blogminimal
+baseurl: /
 
 permalink: pretty
 
